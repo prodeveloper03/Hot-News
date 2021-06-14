@@ -1,4 +1,4 @@
-package com.codingwithme.hot_news
+package com.codingwithme.hotnews
 
 import org.junit.Test
 
