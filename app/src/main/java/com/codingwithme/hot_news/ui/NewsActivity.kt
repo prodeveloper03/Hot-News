@@ -1,7 +1,8 @@
-package com.codingwithme.hot_news
+package com.codingwithme.hot_news.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.codingwithme.hot_news.R
 
 class NewsActivity : AppCompatActivity() {
 

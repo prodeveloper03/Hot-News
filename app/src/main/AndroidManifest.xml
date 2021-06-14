@@ -11,7 +11,7 @@
         android:theme="@style/Theme.HotNews">
 
 
-        <activity android:name=".NewsActivity">
+        <activity android:name=".ui.NewsActivity">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
